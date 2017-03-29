@@ -1,0 +1,3 @@
+[submodule "cmus"]
+	path = cmus
+	url = git@github.com:axeliodiaz/cmus.git
