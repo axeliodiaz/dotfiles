@@ -1,3 +1,6 @@
 [submodule "cmus"]
 	path = cmus
 	url = git@github.com:axeliodiaz/cmus.git
+[submodule "znc"]
+	path = znc
+	url = git@github.com:axeliodiaz/znc.git
