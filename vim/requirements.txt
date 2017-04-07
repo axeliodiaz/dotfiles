@@ -1,0 +1,4 @@
+flake8
+flake8-doctstrings
+autopep8
+docutils
