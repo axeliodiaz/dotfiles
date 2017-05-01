@@ -1,4 +1,1 @@
-.. toctree::
-  :glob:
-
-  tmux/
+.. include:: info.rst
