@@ -1,0 +1,2 @@
+apm install atom-beautify
+apm install linter-pycodestyle
