@@ -8,7 +8,10 @@ vim is in Debian repository::
 Configuration
 =============
 
-znc.conf is the configuration file for znc. You must copy/paste in 
+Copy/paste this follow lines::
+
+ cp .vimrc ~/
+ cp -r .vim ~/
 
 Third Packages Linux
 ====================
