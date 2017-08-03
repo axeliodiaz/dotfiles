@@ -1,2 +1,4 @@
-apm install atom-beautify
-apm install linter-pycodestyle
+apm install sync-settings
+
+sudo aptitude install pandoc # Para el paquete de rstPreview
+
