@@ -1,4 +1,5 @@
 apm install sync-settings
 
 sudo aptitude install pandoc # Para el paquete de rstPreview
+sudo pip install pep8 pycodestyle autopep8
 
